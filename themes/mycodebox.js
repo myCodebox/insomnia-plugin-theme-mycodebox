@@ -1,6 +1,6 @@
 module.exports = {
 	name: "mycodebox",
-	displayName: 'Paraíso "mycbx"',
+	displayName: 'myCodebox"',
 	theme: {
 		background: {
 			default:  "#2f1e2e", // Primary
