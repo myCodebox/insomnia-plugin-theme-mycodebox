@@ -4,18 +4,18 @@
 
 ![Screenshot](./screenshot.png)
 
-## Install
+## [Install](./INSTALL.md)
 
-* In Insomnia, go to Application and select Preferences
-* Click on Plugins
-* Paste `insomnia-plugin-theme-mycodebox` into the package name field
-* Click on Install Plugin
+1. In Insomnia, go to _Application_ and select _Preferences_
+2. Click on _Plugins_
+3. Paste `insomnia-plugin-theme-mycodebox` into the package name field
+4. Click on _Install Plugin_
 
 ## Activating theme
 
-* Go to Application and select Preferences
-* Click on Themes
-* Select Dracula to apply the theme
+1. Go to _Application_ and select _Preferences_
+2. Click on _Themes_
+3. Select **myCodebox** to apply the theme
 
 
 ## License
