@@ -1,0 +1,35 @@
+{
+	"name": "insomnia-plugin-theme-mycodebox",
+	"version": "1.0.0",
+	"description": "I love the paraíso theme",
+	"license": "MIT",
+	"main": "index.js",
+	"insomnia": {
+		"name": "theme-mycodebox",
+		"description": "A fancy Paraíso theme I made for Insomnia =)",
+		"images": {
+			"icon": "icon.svg",
+			"cover": "screenshot.png"
+		}
+	},
+	"keywords": [
+		"mycodebox",
+		"paraiso",
+		"paraíso",
+		"theme",
+		"insomnia",
+		"insomnia-plugin"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mycodebox/insomnia.git"
+	},
+	"author": "",
+	"bugs": {
+		"url": "https://github.com/mycodebox/insomnia/issues"
+	},
+	"homepage": "https://www.codebox.at/"
+}
