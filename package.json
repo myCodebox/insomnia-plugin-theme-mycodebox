@@ -19,7 +19,7 @@
 		"theme",
 		"insomnium",
 		"insomnium-plugin",
-		"insomnia",,
+		"insomnia",
 		"insomnia-plugin"
 	],
 	"scripts": {
