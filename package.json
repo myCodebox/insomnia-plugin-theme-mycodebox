@@ -6,7 +6,7 @@
 	"main": "index.js",
 	"insomnia": {
 		"name": "theme-mycodebox",
-		"description": "A fancy Paraíso theme I made for Insomnia =)",
+		"description": "A fancy Paraíso theme I made for Insomnium/Insomnia =)",
 		"images": {
 			"icon": "icon.svg",
 			"cover": "screenshot.png"
@@ -17,7 +17,9 @@
 		"paraiso",
 		"paraíso",
 		"theme",
-		"insomnia",
+		"insomnium",
+		"insomnium-plugin",
+		"insomnia",,
 		"insomnia-plugin"
 	],
 	"scripts": {
